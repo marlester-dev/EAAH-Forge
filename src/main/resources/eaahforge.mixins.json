@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.marlester.eaahforge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ESMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
