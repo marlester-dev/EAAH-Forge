@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.marlester.eaahf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "eaahf.refmap.json",
+  "mixins": [
+    "ESMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
